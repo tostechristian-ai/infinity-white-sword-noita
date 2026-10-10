@@ -6,7 +6,7 @@ A powerful sword mod for Noita that spawns the White Sword (Usamaki) at the star
 
 - **White Sword (Usamaki)**: A powerful sword that moves you forward into the slice
 - **Auto-spawn**: The sword spawns automatically at the start of the game, to the right of the player
-- **Overpowered configuration**: Pre-loaded with HEAVY_SHOT, LUMINOUS_DRILL, and ADD_MANA spells for infinite rapid-fire casting
+- **Overpowered configuration**: Pre-loaded with LUMINOUS_DRILL and ADD_MANA spells for infinite rapid-fire casting
 - **Custom projectile effects**: Purple particle effects for visual flair
 
 ## Installation
@@ -21,14 +21,13 @@ A powerful sword mod for Noita that spawns the White Sword (Usamaki) at the star
 ## Mod Configuration
 
 The sword is pre-configured with the following spell loadout:
-- 3x HEAVY_SHOT (massive damage boost)
 - 1x PING_PONG_PATH (extends drill travel pattern)
 - 3x LUMINOUS_DRILL (safe laser beam/lightsaber effect)
 - 3x ADD_MANA (infinite mana sustain)
 
 The wand is configured for:
 - Instant firing (1 frame fire rate)
-- 10 actions per round
+- 7 actions per round
 - 0 reload time
 - 99,999 mana for infinite casting
 
